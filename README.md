@@ -1,1 +1,1 @@
-# Amongst-UsX-GUI
+Among us Gui
